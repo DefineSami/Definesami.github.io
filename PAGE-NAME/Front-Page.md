@@ -1,3 +1,6 @@
+layout: page
+title: "Front Page"
+
 <!DOCTYPE html>
 <html>
 <body>
