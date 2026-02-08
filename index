@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="styles/style.css" rel="stylesheet" />
+<h2>Front Page</h2>
+<a href="movies.html">
+  Movies
+</a>
+&nbsp|
+<a href="https://www.youtube.com/watch?v=-9oP7erSPmA&list=LL&index=3">
+  Games (Doesnt work) |
+</a>
+&nbsp|
+<a href="https://i.pinimg.com/736x/c0/ed/2c/c0ed2cbff3429313d11f0b064ff47c92.jpg">
+  Models (Doesnt work)
+</a>
+
+</head>
+<h1>Currently In Maintenance ("CIM" for short or "Currently in maintenance" for long)</h1>
+<p>Who does
+<span style="color: #3f8121"><strong>Sami</strong></span>
+think he is</p>
+<pre>
+   #########
+#####    #####
+##   0   0  ##
+##     |    ##
+##    ___   ##
+#            #
+</pre>
+<img src="spongebob.jpg" alt="Test image!" height="200px" width="auto">
+</body>
+
+</html>
