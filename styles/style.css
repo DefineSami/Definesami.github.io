@@ -16,11 +16,12 @@ p{
 }
 body{
     width: 50%;
-    margin: 0 auto;
+    margin: 10% auto;
     background-color: #ffc300;
     padding: 0 20px 20px 20px;
     border: 5px green;
     border-style: dashed solid;
 
 }
+
 
